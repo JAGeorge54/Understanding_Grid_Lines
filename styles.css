@@ -1,0 +1,8 @@
+div{
+    background: cadetblue;
+    text-align: center;
+    padding: 30px;
+}
+div:nth-of-type(odd) {
+    background: burlywood;
+}
