@@ -12,3 +12,7 @@ div{
 div:nth-of-type(odd) {
     background: burlywood;
 }
+.one {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
